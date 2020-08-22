@@ -1,1 +1,0 @@
-# Numpy library and operations
